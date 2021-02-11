@@ -19,17 +19,23 @@
   Look at the top 10 players balance for the selected currency.
   (To use the balancetop command you need to have ``ultraeconomy.balancetop``)
   
-  ### Placeholders
-  ``%uecon_balance_###_total%`` 
-  To get the total balance of a player
-  ``%uecon_balance_###_hand%``
-  To get the hand balance of a player
-  ``%uecon_balance_###_bank%``
-  To get the bank balance of a player
-  ``%uecon_balancetop_<currency>_name_<place>``
-  To get the name of a player who is in a specific place from baltop
-  ``%uecon_balancetop_<currency>_balance_<place>``
-  To get the top amount of a specific currency a player in a specific spot has
+### Placeholders
+``%uecon_balance_###_total%`` 
+To get the total balance of a player
+``%uecon_balance_###_hand%``
+To get the hand balance of a player
+``%uecon_balance_###_bank%``
+To get the bank balance of a player
+``%uecon_balancetop_<currency>_name_<place>``
+To get the name of a player who is in a specific place from baltop
+``%uecon_balancetop_<currency>_balance_<place>``
+To get the top amount of a specific currency a player in a specific spot has
+``%uecon_balance_<currency>_total_unformatted%``
+Get the total balance of a player without formating like color or name.
+``%uecon_balance_<currency>_hand_unformatted%``
+Get the total hand balance of a player without formating like color or name.
+``%uecon_balance_<currency>_bank_unformatted%``
+Get the total bank balance of a player without formating like color or name.
    
 <br />
 

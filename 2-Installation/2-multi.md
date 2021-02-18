@@ -6,17 +6,16 @@
 
 <br />
 
-Firstly install the *UltraPermissions.jar* on every Server including your BungeeCord.
+Firstly install the *UltraEconomy.jar* on every Server including your BungeeCord.
 In the next step, you have to enable MySQL for every Server via the intuitive interface.
-**Note:** If you already have permissions connect the server with permission first!
 
 <br />
 
-* Make sure that you have **ultraeconomy.admin** permsion to get access to /uecon
+* Make sure that you have **ultraeconomy.admin** permision to get access to /uecon
 * Execute **/uecon**, navigate to *Settings > MySQL* and enter your MySQL credentials 
 * Restart your Server
 
-After you have repeated that process for every Server, Ultra Permissions should now be fully functional!
+After you have repeated that process for every Server, Ultra Economy should now be fully functional!
 If Ultra Economy did not connect please follow the steps below.
 
 <br />

@@ -5,6 +5,9 @@
   (Requires ``ultraeconomy.admin``)
 * **/balance** to open the Balance View
   (To use the balance set functionality you need to have ``ultraeconomy.cheat``)
+* **/pay (Player) (Currency) (Value)**
+  Pay the given *vaulue* of *currency* to a player
+  (To use the pay command you need to have ``ultraeconomy.pay``)
   
 <br />
 

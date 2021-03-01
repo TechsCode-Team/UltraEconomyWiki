@@ -8,6 +8,8 @@
 * **/pay (Player) (Currency) (Value)**
   Pay the given *vaulue* of *currency* to a player
   (To use the pay command you need to have ``ultraeconomy.pay``)
+* **/trade (Player)** to trade with a specific player 
+  To use this feature you need to have ``ultraeconomy.trade``
   
 <br />
 

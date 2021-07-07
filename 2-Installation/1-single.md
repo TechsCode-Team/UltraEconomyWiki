@@ -1,7 +1,7 @@
 ## Regular Installation
 
 To install the Ultra Economy on your server you need to drop the **UltraEconomy.jar** Than restart your server.
-After restarting the server Ultra Economy has succefully installed
+After restarting the server, Ultra Economy should have succesfully been installed.
 
 <br />
 

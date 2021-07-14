@@ -6,4 +6,4 @@ Explanation here
 
 ```Code```-->
 
-**Our API isn't publicly available yet**
+# Our API isn't publicly available yet

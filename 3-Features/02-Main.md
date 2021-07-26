@@ -4,15 +4,15 @@
 Here are all the features of Ultra Economy.
 <br>
 
-* **Customisable**
+* **``Customisable``**
     Fully customise each currency with an icon & custom balance format
-* **Item-Export**
+* **``Item-Export``**
     Export your money as an item to drop or store it safely
-* **Trade System**
+* **``Trade System``**
     Scam-proof player to player trade system
-* **Ease of Use**
+* **``Ease of Use``**
     All aspects of the plugin are configurable with an in-game GUI
-* **BungeeCord & MySQL**
+* **``BungeeCord & MySQL``**
     Automatically syncs all your data across all servers
-* **Vault Support**
+* **``Vault Support``**
     All plugins taht support Vault, will also support Ultra Economy

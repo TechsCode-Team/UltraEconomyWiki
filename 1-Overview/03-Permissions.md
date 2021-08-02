@@ -16,4 +16,3 @@ Here is a list of all the permissions that can be used
   Be able to trade with other players
 * `ultraeconomy.cheat`
   Cheating balance through GUI
-<br>

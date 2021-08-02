@@ -2,18 +2,18 @@
 Here is a list of all the permissions that can be used
 <br>
 
-* ``ultraeconomy.admin``
+* `ultraeconomy.admin`
   The main permission of Ultra Economy
-* ``ultraeconomy.pay``
+* `ultraeconomy.pay`
   Be able to pay another player
-* ``ultraeconomy.balancetop``
+* `ultraeconomy.balancetop`
   Be able to see the top 5 of a balance
-* ``ultraeconomy.balance.self``
+* `ultraeconomy.balance.self`
   Be able to see the balance of your self
-* ``ultraeconomy.balance.others``
+* `ultraeconomy.balance.others`
   Be able to see the balance of others
-* ``ultraeconomy.trade``
+* `ultraeconomy.trade`
   Be able to trade with other players
-* ``ultraeconomy.cheat``
+* `ultraeconomy.cheat`
   Cheating balance through GUI
 <br>

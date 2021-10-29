@@ -18,4 +18,8 @@ Below is a list of all available placeholders. Keep in mind these placeholders r
   This will show the total hand balance on the whole server formatted
 * `%uecon_balance_{currency}_bank_unformatted%`
   This will show the total bank balance on the whole server unformatted
+* `%uecon_balance_CURRENCY_server%`
+  This will show the entire server balance of a specific currency
+* `%uecon_balance_CURRENCY_server_unformatted%`
+  This will show the entire server balance of a specific currency unformatted
   

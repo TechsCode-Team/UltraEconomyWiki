@@ -10,6 +10,8 @@ Here is a list of all the commands that can be used.
   Pay the given value of currency to a player
 * `/trade <Player>`
   Trade with a specifick player
+* `/trade-accept <Player>`
+  Accept a trade with a specifick player
 * `/balancetop <Currency> | /baltop <Currency>`
   To view the top 10 players balance for the selected currency
 * `/addbalance <Player> <Currency> <Value>`

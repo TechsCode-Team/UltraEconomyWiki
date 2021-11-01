@@ -17,7 +17,7 @@ Here are all the features of Ultra Economy.
 * **`Vault Support`**
     All plugins that support Vault, will also support Ultra Economy
 * **`HEX & Gradient support`**
-    HEXCODE support and Gradient support while formatting the currecny. (Description and Format)
+    HEXCODE support and Gradient support while formatting the currency. (Description and Format)
     *Gradient: `{#RRBBGG>}Insert a Description{#RRBBGG<}`*
     *Gradient: `{#RRBBGG>}{amount} Gem(s){#RRBBGG<}`*
     *HEXCODE: `{#RRBBGG}Insert a Description`*

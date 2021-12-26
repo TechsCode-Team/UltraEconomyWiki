@@ -4,7 +4,15 @@
     "icon":"map",
     "title":"Overview",
     "subItems": {
-
+      "commands": {
+        "title":"Commands"
+      },
+      "permissions": {
+        "title":"Permissions"
+      },
+      "placeholders": {
+        "title":"Placeholders"
+      }
     }
   },
   "installation": {

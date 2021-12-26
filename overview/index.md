@@ -7,7 +7,7 @@ You can communicate with our support team by joining our **[Discord](https://dis
 <br>
 
 ## What can you find on the wiki?
-- [Commands](./overview/commands.md) - The list of commands
+- [Commands](./commands.md) - The list of commands
 - [Permissions](/wiki/overview/permissions.md) - The list of permissions
 - [Placeholders](/wiki/overview/placeholders.md) - The list of placeholders
 - [Installation Guide](/wiki/installation) - A quick guide on how to install Ultra Economy

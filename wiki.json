@@ -44,7 +44,12 @@
     "icon":"code",
     "title":"API",
     "subItems": {
-
+      "maven": {
+        "title":"Maven"
+      },
+      "gradle": {
+        "title":"Gradle"
+      }
     }
   }
 }

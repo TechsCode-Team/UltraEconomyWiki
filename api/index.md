@@ -7,5 +7,5 @@ Our API is made so you as a developer can use our plugin in compatibility with y
 <br>
 
 Our API isn't documented yet, but it can be imported into your project.
-- [Maven](./maven.md) - Guide to import with Maven
-- [Gradle](./gradle.md) - Guide to import with Gradle
+- [Maven](./maven) - Guide to import with Maven
+- [Gradle](./gradle) - Guide to import with Gradle

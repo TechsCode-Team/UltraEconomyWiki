@@ -2,7 +2,7 @@
 <br>
 
 ## Add this to your build.gradle
-```gradle
+```groovy
 repositories {
     maven {
         name = 'TechsCodeAPI'

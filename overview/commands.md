@@ -5,7 +5,7 @@ Here is a list of all the commands that can be used.
 * `/uecon`
   To open the Administrative GUI
 * `/balance [Player]`
-  To open the ballance view from your self or others
+  To open the balance view from your self or others
 * `/pay <Player> <Currency> <Value>`
   Pay the given value of currency to a player
 * `/trade <Player>`
@@ -13,7 +13,7 @@ Here is a list of all the commands that can be used.
 * `/trade-accept <Player>`
   Accept a trade request with a specifick player
 * `/trade-decline <Player>`
-  Deny a trade request with a sepcifick player
+  Deny a trade request with a specifick player
 * `/balancetop <Currency> | /baltop <Currency>`
   To view the top 10 players balance for the selected currency
 * `/addbalance <Player> <Currency> <Value>`

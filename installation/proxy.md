@@ -1,5 +1,5 @@
 # Proxy Installation
-UltraEconomy works on every proxy based of **[BungeeCord](https://ci.md-5.net/job/BungeeCord)**. If you use a proxy like **[Waterfall](https://papermc.io/downloads#Waterfall)** or technically every proxy that is forked (based) of either BungeeCord or Waterfall. The plugin should work just fine. Nevertheless, we do recommend using a proxy such as Waterfall, which is more performant and secure than BungeeCord.
+Ultra Economy works on every proxy based of **[BungeeCord](https://ci.md-5.net/job/BungeeCord)**. If you use a proxy like **[Waterfall](https://papermc.io/downloads#Waterfall)** or technically every proxy that is forked (based) of either BungeeCord or Waterfall. The plugin should work just fine. Nevertheless, we do recommend using a proxy such as Waterfall, which is more performant and secure than BungeeCord.
 <br>
 
 For a proxy installation, you need to repeat the plugin installation process for every Spigot server that you have. Once you have finished installing the plugin on all the back-end (Spigot) servers, you need to install it on the proxy.
@@ -11,14 +11,14 @@ The process is similar as the Spigot installation:
 - Start your server.
 <br>
 
-`Note:` *You will need a MySQL database to be able to use UltraEconomy in proxy mode. Depending on your host, the process can vary, and will not be mentionned nor explained here.*
+`Note:` *You will need a MySQL database to be able to use Ultra Economy in proxy mode. Depending on your host, the process can vary, and will not be mentionned nor explained here.*
 <br>
 
 Once the plugin has been installed on the proxy, and that it's loading as expected, we need to set up the MySQL connections inside the back-end servers. This part is important, as it will synchronize all your data accross your spigot servers.
 <br>
 
 ## Connecting to MySQL
-As mentionned above, a MySQL database is needed to sync UltraEconomy accross servers. To start your syncing process, connect to your server in-game, and open the plugin's GUI by executing the command `/uecon` in chat.
+As mentionned above, a MySQL database is needed to sync Ultra Economy accross servers. To start your syncing process, connect to your server in-game, and open the plugin's GUI by executing the command `/uecon` in chat.
 <br>
 
 Then click on the Command Block in the bottom-left of the GUI. *(Called `Settings`)*
@@ -44,7 +44,7 @@ Here you will need to fill in the credentials *(info)* of your database. By typi
 <br>
 
 *Here's a shortend version of the proxy installation process:*
-`/customizer >> Settings >> MySQL Database >> Setup MySQL >> Credentials`
+`/uecon >> Settings >> MySQL Database >> Setup MySQL >> Credentials`
 <br>
 
 Once you have filled in all the credentials, you can now test the connection by clicking on the Emerald Ore in the middle-right of the GUI and confirm it by clicking a second time on the same slot. If your database has not connected or the test takes too long, you have entered the wrong credentials.

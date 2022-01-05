@@ -8,3 +8,6 @@ Ultra Economy is supported on all versions (release) from **1.8.8 to 1.18.X**. V
 
 **`NOTE:` Our plugins do not officially support offline-mode!**
 <br>
+
+# Download The Latest Build
+Download the latest build of Ultra Regions via the resource page **[here](https://www.spigotmc.org/resources/ultra-economy.83374/)**

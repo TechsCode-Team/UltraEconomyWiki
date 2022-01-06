@@ -12,4 +12,5 @@ Here are all the frequently asked questions from Ultra Economy.
   No, Ultra Economy does not work in offline-mode because we store the user data via UUID
 * **`What is the maximum amount of currencies I can make?`**
   You can for now only add a maximum of 10 currency's
-    
+* **`Can i migrate balance from Essentials?`**
+  Yes, you can migrate balance from Essentials.

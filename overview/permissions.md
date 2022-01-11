@@ -16,3 +16,7 @@ Here is a list of all the permissions that can be used
   Be able to trade with other players
 * `ultraeconomy.cheat`
   Cheating balance through GUI
+* `ultraeconomy.bank.own`
+  Allows the player to use the Bank Feature if enabled
+* `ultraeconomy.bank.others`
+  Administator permission to manage other's bank account

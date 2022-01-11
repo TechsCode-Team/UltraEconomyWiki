@@ -22,6 +22,8 @@ Here is a list of all the commands that can be used.
   Remove the given value of a currency of a players balance
 * `/setbalance <Player> <Currency> <Value>`
   Set the given value of a currency of a players balance
+* `/bank [Player]`
+  Open the specified bank account
   <br>
 
 ## Symbols:

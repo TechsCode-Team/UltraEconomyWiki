@@ -50,7 +50,9 @@ This will indicate how much money the player can deposit in his bank account. It
 This will indicate how much money the player will have in his bank account when he creates it. It can be edited by clicking the Diamond in the top-right (Called `Start Bank Balance`).
 <br>
 
-![Bank Balance Limit](https://i.imgur.com/sknx1WV.png)
+![Start Bank Balance](https://i.imgur.com/BJIGasd.png)
 <br>
 
 ## Transaction Limit
+This will indicate how many transactions per bank account are allowed in a specific time. It can be edited by clicking the Book in the middle-right (Called `Transaction Limit`).
+<br>

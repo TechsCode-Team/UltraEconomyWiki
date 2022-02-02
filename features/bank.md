@@ -61,3 +61,13 @@ This will indicate how many transactions per bank account are allowed in a speci
 <br>
 
 ## Upgrades
+You can also create upgrades that your players can buy to increase the possibilities of their bank account, be able to deposit more money, have more employees and much more... You can create an upgrade by clicking the Anvil in the bottom-right (Called `Upgrades`).
+<br>
+
+![Upgrades](https://i.imgur.com/GFya4YQ.png)
+<br>
+
+After you opened it, you should click on the Nametag (Called `Add Bank Upgrade`), and it will ask you to input a name for your upgrade, then you can click on it and personalize it like you want.
+<br>
+
+## Employees

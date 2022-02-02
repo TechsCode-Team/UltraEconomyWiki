@@ -56,3 +56,8 @@ This will indicate how much money the player will have in his bank account when 
 ## Transaction Limit
 This will indicate how many transactions per bank account are allowed in a specific time. It can be edited by clicking the Book in the middle-right (Called `Transaction Limit`).
 <br>
+
+![Transaction Limit](https://i.imgur.com/3rWn7IZ.png)
+<br>
+
+## Upgrades

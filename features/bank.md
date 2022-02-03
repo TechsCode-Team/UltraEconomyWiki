@@ -71,3 +71,35 @@ After you opened it, you should click on the Nametag (Called `Add Bank Upgrade`)
 <br>
 
 ## Employees
+You can even add employees that can get limited or full access to your bank account, you will be able to add new employees by clicking the Tripwire Hook in the bottom-left (Called `Manage Access`).
+<br>
+
+![Employees](https://i.imgur.com/0bPpGnu.png)
+<br>
+
+After you opened it, you should click on the Nametag (Called `Employee`), it will open you a player selector GUI where you will be able to choose what player add as employee and after a menu where you can decide what permissions give to him. If after you want to edit his permission you can always edit them by clicking his head in the GUI of the employees.
+<br>
+
+You can set the employees limit, the cost and the payment interval in the managing GUI of the bank feature that you open by executing `/uecon`
+<br>
+
+![Employees Limit](https://i.imgur.com/uAf7d1Q.png)
+<br>
+
+## Standing Orders
+You will be able to create standings orders for regularly give money to your employees or friends, you can create a new standing orders by clicking the Book in the middle-right (Called `Standing Orders`).
+<br>
+
+![Standing Orders](https://i.imgur.com/zaroi54.png)
+<br>
+
+After you opened it, you should click on the Nametag (Called `Add Standing Order`), it will open you a player selector GUI where you will be able to choose to what player you will give regularly money, then in what currency the money should be given and the interval between you give the money to him.
+<br>
+
+You can set the standing orders limit, the creation cost and the execution cost in the managing GUI of the bank feature that you open by executing `/uecon`
+<br>
+
+![Standing Orders Limit](https://i.imgur.com/r70b8uZ.png)
+<br>
+
+## Fees

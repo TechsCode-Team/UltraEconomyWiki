@@ -26,17 +26,26 @@ Now all players that have the [permission](../overview/permissions) for it can c
 As mentioned above, the **Bank Feature** adds many features that will be listed and described in detail below.
 <br>
 
+- `Bank Account Creation Cost`
 - `Bank Balance Limit`
 - `Start Bank Balance`
 - `Transaction Limit`
 - `Upgrades`
 - `Employees`
 - `Standing Orders`
-- `Fees`
+- `Extra Fees`
 - `Interests`
-- `Item Storage`
-- `Exp Storage`
+- `Item Storage` - *Feature Coming Soon*
+- `Exp Storage` - *Feature Coming Soon*
 - `Overdraft`
+- `Government Account`
+<br>
+
+## Bank Account Creation Cost
+This will indicate how much money the player need to pay for create his bank account. It can be edited by clicking the Golden Ingot in the middle-right (Called `Bank Account Creation Cost`).
+<br>
+
+![Bank Account Creation Cost](https://i.imgur.com/c6X06wK.png)
 <br>
 
 ## Bank Balance Limit
@@ -68,7 +77,9 @@ You can also create upgrades that your players can buy to increase the possibili
 <br>
 
 After you opened it, you should click on the Nametag (Called `Add Bank Upgrade`), and it will ask you to input a name for your upgrade, then you can click on it and personalize it like you want.
+Now your players can buy the new upgrade you created by opening their bank account and clicking on the Anvil (Called `Upgrades`) and press the upgrade they want to buy.
 <br>
+
 
 ## Employees
 You can even add employees that can get limited or full access to your bank account, you will be able to add new employees by clicking the Tripwire Hook in the bottom-left (Called `Manage Access`).
@@ -78,16 +89,17 @@ You can even add employees that can get limited or full access to your bank acco
 <br>
 
 After you opened it, you should click on the Nametag (Called `Employee`), it will open you a player selector GUI where you will be able to choose what player add as employee and after a menu where you can decide what permissions give to him. If after you want to edit his permission you can always edit them by clicking his head in the GUI of the employees.
+Your new employees can manage your bank account by executing `/bank` and choose what account they want to use.
 <br>
 
-You can set the employees limit, the cost and the payment interval in the managing GUI of the bank feature that you open by executing `/uecon`
+You can set the employees limit, the cost and the payment interval in the managing GUI of the bank feature that you open by executing `/uecon`.
 <br>
 
-![Employees Limit](https://i.imgur.com/uAf7d1Q.png)
+![Employees Limit](https://i.imgur.com/FrWv9Nf.png)
 <br>
 
 ## Standing Orders
-You will be able to create standings orders for regularly give money to your employees or friends, you can create a new standing orders by clicking the Book in the middle-right (Called `Standing Orders`).
+You will be able to create standings orders for regularly give money to your employees or friends, you can create a new standing orders by clicking the Book and Quill in the middle-right (Called `Standing Orders`).
 <br>
 
 ![Standing Orders](https://i.imgur.com/zaroi54.png)
@@ -96,10 +108,35 @@ You will be able to create standings orders for regularly give money to your emp
 After you opened it, you should click on the Nametag (Called `Add Standing Order`), it will open you a player selector GUI where you will be able to choose to what player you will give regularly money, then in what currency the money should be given and the interval between you give the money to him.
 <br>
 
-You can set the standing orders limit, the creation cost and the execution cost in the managing GUI of the bank feature that you open by executing `/uecon`
+You can set the standing orders limit, the creation cost and the execution cost in the managing GUI of the bank feature that you open by executing `/uecon`.
 <br>
 
 ![Standing Orders Limit](https://i.imgur.com/r70b8uZ.png)
 <br>
 
-## Fees
+## Extra Fees
+This feature will allow you to set the fees for the actions that don't have fees by default, you can edit them by clicking the Iron Ingot in the middle-right (Called `Extra Fees`).
+<br>
+
+![Extra Fees](https://i.imgur.com/T1OZWnz.png)
+<br>
+
+## Interests
+Info needs to be added.
+<br>
+
+![Interests](https://i.imgur.com/ezNy8yq.png)
+<br>
+
+## Overdraft
+The overdraft will delete your account when there isn't enough money in an account to cover a transiction, you can edit it by clicking the Empty Bucket int the middle-left (Called `Bank Account Overdraft`).
+<br>
+
+![Bank Account Overdraft](https://i.imgur.com/Bh4LtDC.png)
+<br>
+
+## Government Account
+This will indicate wich costs and fees should be taken and given to the government account, it can be edited by clicking the Iron Chestplate in the middle-left (Called `Government Account`).
+<br>
+
+![Government Account](https://i.imgur.com/lpjqUe2.png)

@@ -1,5 +1,5 @@
 # Bank System
-**Ultra Economy** also offers a bank feature, the latter allows all players who have permission to create a bank account and give it the name they prefer. Along with it are added many other countless features.
+**Ultra Economy** also offers a bank feature, wich allows all the players to create a bank account and give it the name they prefer. Along with it are added many other countless features.
 <br>
 
 ## Start
@@ -27,8 +27,8 @@ As mentioned above, the **Bank Feature** adds many features that will be listed 
 <br>
 
 - `Bank Account Creation Cost`
-- `Bank Balance Limit`
 - `Start Bank Balance`
+- `Bank Balance Limit`
 - `Transaction Limit`
 - `Upgrades`
 - `Employees`
@@ -48,18 +48,18 @@ This will indicate how much money the player need to pay for create his bank acc
 ![Bank Account Creation Cost](https://i.imgur.com/c6X06wK.png)
 <br>
 
-## Bank Balance Limit
-This will indicate how much money the player can deposit in his bank account. It can be edited by clicking the Hopper in the bottom-left (Called `Bank Balance Limit`).
-<br>
-
-![Bank Balance Limit](https://i.imgur.com/scbrsI8.png)
-<br>
-
 ## Start Bank Balance
 This will indicate how much money the player will have in his bank account when he creates it. It can be edited by clicking the Diamond in the top-right (Called `Start Bank Balance`).
 <br>
 
 ![Start Bank Balance](https://i.imgur.com/BJIGasd.png)
+<br>
+
+## Bank Balance Limit
+This will indicate how much money the player can deposit in his bank account. It can be edited by clicking the Hopper in the bottom-left (Called `Bank Balance Limit`).
+<br>
+
+![Bank Balance Limit](https://i.imgur.com/scbrsI8.png)
 <br>
 
 ## Transaction Limit
@@ -79,7 +79,6 @@ You can also create upgrades that your players can buy to increase the possibili
 After you opened it, you should click on the Nametag (Called `Add Bank Upgrade`), and it will ask you to input a name for your upgrade, then you can click on it and personalize it like you want.
 Now your players can buy the new upgrade you created by opening their bank account and clicking on the Anvil (Called `Upgrades`) and press the upgrade they want to buy.
 <br>
-
 
 ## Employees
 You can even add employees that can get limited or full access to your bank account, you will be able to add new employees by clicking the Tripwire Hook in the bottom-left (Called `Manage Access`).
@@ -122,14 +121,20 @@ This feature will allow you to set the fees for the actions that don't have fees
 <br>
 
 ## Interests
-Info needs to be added.
+This feature will help you to motivate your players to deposit their money in the bank account, they will receive a x% of money in a specific interval of time. You can edit the % and the interval time by clicking the Paper in the top-left (Called `Interest Management`)
 <br>
 
 ![Interests](https://i.imgur.com/ezNy8yq.png)
 <br>
 
+For see when you will receive your next payment or the other intervals, run `/bank` choose the bank account you want to access and hover the Clock in the bottom-left (Called `Next Intervals`) in the lore you will see all the intervals.
+<br>
+
+![Next Intervals](https://i.imgur.com/2tQvl6l.png)
+<br>
+
 ## Overdraft
-The overdraft will delete your account when there isn't enough money in an account to cover a transiction, you can edit it by clicking the Empty Bucket int the middle-left (Called `Bank Account Overdraft`).
+The overdraft will delete your account when there isn't enough money in an account to cover a transiction, you can edit it by clicking the Empty Bucket in the middle-left (Called `Bank Account Overdraft`).
 <br>
 
 ![Bank Account Overdraft](https://i.imgur.com/Bh4LtDC.png)

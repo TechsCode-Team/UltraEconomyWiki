@@ -56,7 +56,7 @@ This will indicate how much money the player will have in his bank account when 
 <br>
 
 ## Bank Balance Limit
-This will indicate how much money the player can deposit in his bank account. It can be edited by clicking the Hopper in the bottom-left (Called `Bank Balance Limit`).
+This will indicate the limit of money the player can deposit in his bank account. It can be edited by clicking the Hopper in the bottom-left (Called `Bank Balance Limit`).
 <br>
 
 ![Bank Balance Limit](https://i.imgur.com/scbrsI8.png)

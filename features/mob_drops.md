@@ -27,13 +27,13 @@ The **Mob Drops** feature adds a few settings about it, that will be listed and 
 <br>
 
 ## Creating Mob Drop
-For create a new Mob Drop you should click on the Anvil in the bottom-right (Called `Create MobDrop`).
+For create a new Mob Drop you should click on the Anvil in the bottom-right (Called `Create Drop`).
 <br>
 
 ![Create Mob Drop](https://i.imgur.com/oud1qgX.png)
 <br>
 
-After you clicked it you should decide in what currency the money should be dropped. You can edit it by clicking the Grass Block in the bottom-left (Called `Disable MobDrops in Worlds`).
+After you clicked it you should decide in what currency the money should be dropped.
 <br>
 
 ![Currency Money](https://i.imgur.com/IGmSEDL.png)
@@ -54,7 +54,7 @@ This will indicate the percentage of a mob dropping money when it die. You can e
 <br>
 
 ## Entities
-This will indicate wich entities should drop the money when they die. You can edit it while you are creating a new mob drop by clicking the Mob Spawner in the middle-right (Called `Entities`).
+This will indicate which entities should drop the money when they die. You can edit it while you are creating a new mob drop by clicking the Mob Spawner in the middle-right (Called `Entities`).
 <br>
 
 ![Entities](https://i.imgur.com/FiHEejC.png)
@@ -80,5 +80,3 @@ After you clicked it, it will open a GUI where you will be able to choose in wha
 <br>
 
 ![Worlds GUI](https://i.imgur.com/qwiVx5m.png)
-<br>
-

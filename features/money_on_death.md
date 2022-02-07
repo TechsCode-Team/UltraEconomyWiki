@@ -14,6 +14,7 @@ Then click on the Mob Spawner in the bottom-middle-left of the GUI. *(Called `Lo
 
 *Here's a shortend version of the Lose Money on Death settings:*
 `/uecon >> Features >> Lose Money on Death`
+<br>
 
 `Note:` **The feature is enabled by default.**
 <br>

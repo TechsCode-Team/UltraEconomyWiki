@@ -65,7 +65,7 @@
       "mob_drops": {
         "title":"Mob Drops"
       },
-      "money_on_death:": {
+      "money_on_death": {
         "title":"Money on Death"
       }
     }

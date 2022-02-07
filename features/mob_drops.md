@@ -66,7 +66,7 @@ After you clicked it, it will open a GUI where you will be able to decide what m
 ![Entities GUI](https://i.imgur.com/gfrNyrr.png)
 <br>
 
-The Green Glass indicate the enabled mobs and the White Glass indicate the disabled mobs.
+The Yellow Glass indicate the enabled mobs and the White Glass indicate the disabled mobs.
 <br>
 
 ## Disable Mob Drops in Worlds

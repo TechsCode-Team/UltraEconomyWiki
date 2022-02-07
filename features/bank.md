@@ -22,7 +22,7 @@ After you opened it, you should select wich currency you want it to become the m
 Now all players that have the [permission](../overview/permissions) for it can create a bank account executing the command `/bank`.
 <br>
 
-# What features it have?
+# Features
 As mentioned above, the **Bank Feature** adds many features that will be listed and described in detail below.
 <br>
 

@@ -67,6 +67,9 @@
       },
       "money_on_death": {
         "title":"Money on Death"
+      },
+      "trade": {
+        "title":"Trade"
       }
     }
   },

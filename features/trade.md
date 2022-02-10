@@ -43,5 +43,6 @@ This will indicate if the players should be able to start a trade with `Shift + 
 
 `Note:` **At the moment this feature only works on 1.9+**
 <br>
+<br>
 
-> If you have any question about this feature, feel free to ask it in our **[Discord](https://discord.gg/3JuHDm8)**.
+_If you have more questions about this feature, feel free to ask it in our **[Discord](https://discord.gg/3JuHDm8)**._

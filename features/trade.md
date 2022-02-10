@@ -41,7 +41,7 @@ This will indicate if the players should be able to start a trade with `Shift + 
 ![Click to Trade](https://i.imgur.com/Xf05iCv.png)
 <br>
 
-`Note:` **At the moment this feature only works on 1.9+**
+`Note:` **At the moment this setting only works on 1.9+**
 <br>
 <br>
 

@@ -53,3 +53,7 @@ After you clicked it, it will open a GUI where you will be able to choose in wha
 <br>
 
 ![Worlds GUI](https://i.imgur.com/qwiVx5m.png)
+<br>
+<br>
+
+_If you have more questions about this feature, feel free to ask them in our **[Discord](https://discord.gg/3JuHDm8)**._

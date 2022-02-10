@@ -45,4 +45,4 @@ This will indicate if the players should be able to start a trade with `Shift + 
 <br>
 <br>
 
-_If you have more questions about this feature, feel free to ask it in our **[Discord](https://discord.gg/3JuHDm8)**._
+_If you have more questions about this feature, feel free to ask them in our **[Discord](https://discord.gg/3JuHDm8)**._

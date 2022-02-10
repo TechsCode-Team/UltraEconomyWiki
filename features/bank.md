@@ -145,3 +145,7 @@ This will indicate wich costs and fees should be taken and given to the governme
 <br>
 
 ![Government Account](https://i.imgur.com/lpjqUe2.png)
+<br>
+<br>
+
+_If you have more questions about this feature, feel free to ask them in our **[Discord](https://discord.gg/3JuHDm8)**._

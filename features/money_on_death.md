@@ -1,5 +1,5 @@
 # Money on Death
-**Ultra Economy** also offers a feature for mak players drops money when they die. Along with it you will be able to edit many settings about it.
+**Ultra Economy** also offers a feature for make players drops money when they die. Along with it you will be able to edit many settings about it.
 <br>
 
 ## Start

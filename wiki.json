@@ -62,6 +62,9 @@
       "bank": {
         "title":"Bank"
       },
+      "currencies": {
+        "title":"Currencies"
+      },
       "mob_drops": {
         "title":"Mob Drops"
       },

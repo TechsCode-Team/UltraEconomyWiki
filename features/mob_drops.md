@@ -27,7 +27,7 @@ The **Mob Drops** feature adds a few settings about it, that will be listed and 
 <br>
 
 ## Creating Mob Drop
-For create a new Mob Drop you should click on the Anvil in the bottom-right (Called `Create Drop`).
+For create a new Mob Drop you should click on the Anvil in the bottom-right of the GUI (Called `Create Drop`).
 <br>
 
 ![Create Mob Drop](https://i.imgur.com/oud1qgX.png)
@@ -40,21 +40,21 @@ After you clicked it you should decide in what currency the money should be drop
 <br>
 
 ## Max and Min Money Drop
-This will indicate the Minimum and the Maximum amount of money that a mob can drop. You can edit it while you are creating a new mob drop by clicking the Emerald in the middle-left.
+This will indicate the Minimum and the Maximum amount of money that a mob can drop. You can edit it while you are creating a new mob drop by clicking the Emerald in the middle-left of the GUI.
 <br>
 
 ![Min and Max Money Drop](https://i.imgur.com/IKHfGKS.png)
 <br>
 
 ## Drop Chance
-This will indicate the percentage of a mob dropping money when it die. You can edit it while you are creating a new mob drop by clicking the Command Block in the middle (Called `Drop Chance`).
+This will indicate the percentage of a mob dropping money when it die. You can edit it while you are creating a new mob drop by clicking the Command Block in the middle of the GUI (Called `Drop Chance`).
 <br>
 
 ![Drop Chance](https://i.imgur.com/T2jDq4J.png)
 <br>
 
 ## Entities
-This will indicate which entities should drop the money when they die. You can edit it while you are creating a new mob drop by clicking the Mob Spawner in the middle-right (Called `Entities`).
+This will indicate which entities should drop the money when they die. You can edit it while you are creating a new mob drop by clicking the Mob Spawner in the middle-right of the GUI (Called `Entities`).
 <br>
 
 ![Entities](https://i.imgur.com/FiHEejC.png)

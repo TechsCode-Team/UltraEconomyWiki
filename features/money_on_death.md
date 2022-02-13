@@ -29,21 +29,21 @@ The **Lose Money on Death** feature adds a few settings about it, that will be l
 <br>
 
 ## Dropping as Item
-This will indicate if money should be dropped on the ground when the player die. It can be edited by clicking the Dispenser in the middle-right (Called `Dropping as Item`).
+This will indicate if money should be dropped on the ground when the player die. It can be edited by clicking the Dispenser in the middle-right of the GUI (Called `Dropping as Item`).
 <br>
 
 ![Dropping as Item](https://i.imgur.com/Zz2eqvr.png)
 <br>
 
 ## Percentage
-This will indicate the percentage of player to lose money when he die. It can be edited by clicking the Minecart with Hopper in the middle-left (Called `Percentage`).
+This will indicate the percentage of player to lose money when he die. It can be edited by clicking the Minecart with Hopper in the middle-left of the GUI (Called `Percentage`).
 <br>
 
 ![Percentage](https://i.imgur.com/o5vklMP.png)
 <br>
 
 ## Disable Mob Drops in Worlds
-This will allow you to completely disable Lose Money on Death in specific worlds. You can edit it by clicking the Grass Block in the bottom-left (Called `Disable LoseMoneyonDeath in Worlds`).
+This will allow you to completely disable Lose Money on Death in specific worlds. You can edit it by clicking the Grass Block in the bottom-left of the GUI (Called `Disable LoseMoneyonDeath in Worlds`).
 <br>
 
 ![Disable Lose Money on Death in Worlds](https://i.imgur.com/yLlIQHI.png)

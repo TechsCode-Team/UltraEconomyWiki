@@ -28,14 +28,14 @@ The **Trade Feature** adds a few settings about it, that will be listed and desc
 <br>
 
 ## Trade Command
-This will indicate if the players should be able to start a trade with `/trade <Player>`. It can be edited by clicking the Command Block in the middle-left (Called `Trade Command`).
+This will indicate if the players should be able to start a trade with `/trade <Player>`. It can be edited by clicking the Command Block in the middle-left of the GUI (Called `Trade Command`).
 <br>
 
 ![Trade Command](https://i.imgur.com/DACpw4D.png)
 <br>
 
 ## Click to Trade
-This will indicate if the players should be able to start a trade with `Shift + Right Click` on a player. It can be edited by clicking the Dispenser in the middle-right (Called `Click to Trade`).
+This will indicate if the players should be able to start a trade with `Shift + Right Click` on a player. It can be edited by clicking the Dispenser in the middle-right of the GUI (Called `Click to Trade`).
 <br>
 
 ![Click to Trade](https://i.imgur.com/Xf05iCv.png)

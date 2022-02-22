@@ -43,44 +43,6 @@ This will indicate if the players should be able to start a trade with `Shift + 
 
 `Note:` **At the moment this setting only works on 1.9+**
 <br>
-
-# Trading
-While trading with a player you will be able to do a few things.
-<br>
-
-- `Add Item`
-- `Add Money`
-- `Lock Trade`
-- `Confirm Trade`
-<br>
-
-## Add Item
-You will be able to add items in the trade by clicking the item you want to add from your inventory.
-<br>
-
-![Add Item]()
-<br>
-
-## Add Money
-This will allow you to trade money with the other player.
-<br>
-
-![Add Money]()
-<br>
-
-## Lock Trade
-This will allow you to lock the trade and you wont be able to add any item, after you locked it you can always unlock it.
-<br>
-
-![Lock Trade]()
-<br>
-
-## Confirm Trade
-After both players locked the trade, you will be able to finally confirm the trade.
-<br>
-
-![Confirm Trade]()
-<br>
 <br>
 
 _If you have more questions about this feature, feel free to ask them in our **[Discord](https://discord.gg/3JuHDm8)**._

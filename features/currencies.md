@@ -19,11 +19,11 @@ After you clicked, it will ask you to input a name for your currency.
 `/uecon >> Currencies >> Create Currency`
 <br>
 
-`Note:` **By default you will have a currency called `Gems` that you will be able to delete.**
+`Note:` **By default you will have a currency called `Gems` that you can delete.**
 <br>
 
 # Features
-The **Currencies** adds many features that will be listed and described in detail below.
+The **Currencies Feature** adds many features that will be listed and described in detail below.
 <br>
 
 - `Start Balance`

@@ -59,20 +59,30 @@
     "prev": { "url": "", "title": "" },
     "next": { "url": "", "title": "" },
     "subItems": {
-      "bank": {
-        "title":"Bank"
-      },
       "currencies": {
-        "title":"Currencies"
+        "title":"Currencies",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "https://ultraeconomy.com/wiki/features/bank", "title": "Bank" }
+      },
+      "bank": {
+        "title":"Bank",
+        "prev": { "url": "https://ultraeconomy.com/wiki/features/currencies", "title": "Currencies" },
+        "next": { "url": "https://ultraeconomy.com/wiki/features/mob_drops", "title": "Mob Drops" }
       },
       "mob_drops": {
-        "title":"Mob Drops"
+        "title":"Mob Drops",
+        "prev": { "url": "https://ultraeconomy.com/wiki/features/bank", "title": "Bank" },
+        "next": { "url": "https://ultraeconomy.com/wiki/features/money_on_death", "title": "Money on Death" }
       },
       "money_on_death": {
-        "title":"Money on Death"
+        "title":"Money on Death",
+        "prev": { "url": "https://ultraeconomy.com/wiki/features/mob_drops", "title": "Mob Drops" },
+        "next": { "url": "https://ultraeconomy.com/wiki/features/trade", "title": "Trade" }
       },
       "trade": {
-        "title":"Trade"
+        "title":"Trade",
+        "prev": { "url": "https://ultraeconomy.com/wiki/features/money_on_death", "title": "Money on Death" },
+        "next": { "url": "", "title": "" }
       }
     }
   },

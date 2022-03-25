@@ -12,7 +12,7 @@ For select the language you want to use you will need to open the main plugin's 
 Then click on the Command Block in the bottom of the GUI. *(Called `Settings`)*
 <br>
 
-Then click on the Book And Quill in the top-right of the GUI. *(Called `Language`)*
+Then click on the Book and Quill in the top-right of the GUI. *(Called `Language`)*
 <br>
 
 Then click on the language that you want to use.
@@ -31,7 +31,7 @@ For select the language that you just created you will need to open the main plu
 Then click on the Command Block in the bottom of the GUI. *(Called `Settings`)*
 <br>
 
-Then click on the Book And Quill in the top-right of the GUI. *(Called `Language`)*
+Then click on the Book and Quill in the top-right of the GUI. *(Called `Language`)*
 <br>
 
 Then click on the language that you created.

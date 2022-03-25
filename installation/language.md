@@ -1,9 +1,9 @@
 # Language
-Once you have installed Ultra Economy you can change the language it will use, and therefore change the names of buttons, messages and more. You can decide whether to use the 13 translations we provide by default or create your own.
+Once you have installed Ultra Economy you can change the language it will use, and therefore change the names of buttons, messages and more. You can decide whether to use the 12 translations we provide by default or create your own.
 <br>
 
 ## Default Languages
-By default we provide 13 different languages including (`English`, `Italian`, `French`, `Spanish`, `German`, `Dutch`, `Polish`, `Portuguese`, `Russian`, `Hungarian`, `Czech`, `Korean`, `Taiwan`), these translations have been made by our community, as we do not guarantee that the translations are perfect.
+By default the language will be English, but in addition we provide 12 different languages including (`Italian`, `French`, `Spanish`, `German`, `Dutch`, `Polish`, `Portuguese`, `Russian`, `Hungarian`, `Czech`, `Korean`, `Taiwan`), we do not guarantee that the translations are perfect, as these have been made by our community.
 <br>
 
 For select the language you want to use you will need to open the main plugin's GUI that you open by executing the command `/uecon`.

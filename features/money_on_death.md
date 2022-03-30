@@ -42,14 +42,14 @@ This will indicate the percentage of player to lose money when he die. It can be
 ![Percentage](https://i.imgur.com/o5vklMP.png)
 <br>
 
-## Disable Mob Drops in Worlds
+## Disable Lose Money on Death in Worlds
 This will allow you to completely disable Lose Money on Death in specific worlds. You can edit it by clicking the Grass Block in the bottom-left of the GUI (Called `Disable LoseMoneyonDeath in Worlds`).
 <br>
 
 ![Disable Lose Money on Death in Worlds](https://i.imgur.com/yLlIQHI.png)
 <br>
 
-After you clicked it, it will open a GUI where you will be able to choose in what world you would like to disable Mob Drops.
+After you clicked it, it will open a GUI where you will be able to choose in what world you would like to disable Money on Death.
 <br>
 
 ![Worlds GUI](https://i.imgur.com/qwiVx5m.png)

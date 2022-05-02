@@ -22,3 +22,7 @@ Below is a list of all available placeholders. Keep in mind these placeholders r
   This will show the entire server balance of a specific currency
 * `%uecon_balance_<currency>_server_unformatted%`
   This will show the entire server balance of a specific currency unformatted
+<br>
+
+**`NOTE:` When using a placeholder containing an argument that you need to fill (Ex. "`<currency>`"), make sure to remove the <>**
+

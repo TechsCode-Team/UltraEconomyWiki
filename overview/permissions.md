@@ -14,6 +14,8 @@ Here is a list of all the permissions that can be used
   Be able to see the balance of others
 * `ultraeconomy.trade`
   Be able to trade with other players
+* `ultraeconomy.tradeaccept`
+  Be able to accept trade request
 * `ultraeconomy.cheat`
   Cheating balance through GUI
 * `ultraeconomy.bank.own`

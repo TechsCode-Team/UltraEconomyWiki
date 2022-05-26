@@ -31,3 +31,4 @@ Here is a list of all the commands that can be used.
 ## Symbols:
 - <> = Required
 - [] = Optional
+- | = Or

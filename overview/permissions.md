@@ -12,6 +12,8 @@ Here is a list of all the permissions that can be used
   Be able to see the balance of your self
 * `ultraeconomy.balance.others`
   Be able to see the balance of others
+* `ultraeconomy.balance.reset`
+  Be able to reset a balance
 * `ultraeconomy.trade`
   Be able to trade with other players
 * `ultraeconomy.tradeaccept`

@@ -22,6 +22,18 @@ Below is a list of all available placeholders. Keep in mind these placeholders r
   This will show the entire server balance of a specific currency
 * `%uecon_balance_<currency>_server_unformatted%`
   This will show the entire server balance of a specific currency unformatted
+* `%uecon_bank_remainingCreationCost`
+  This will show the remaining time until the bank creation cost have to be paid again
+* `%uecon_bank_remainingItemStorageCost`
+  This will show the remaining time until the bank item storage cost have to be paid again
+* `%uecon_bank_remainingExpStorageCost`
+  This will show the remaining time until the bank exp storage cost have to be paid again
+* `%uecon_bank_remainingInterestInterval`
+  This will show the remaining time until the bank interests are getting paid again
+* `%uecon_bank_remainingEmployeeCost`
+  This will show the remaining time until the bank employee costs have to be paid again
+* `%uecon_bank_remainingTransactionLimitInterval`
+  This will show the remaining time until the bank transaction limit will be be resettet again
 <br>
 
 **`NOTE:` When using a placeholder containing an argument that you need to fill (Ex. `<currency>`), make sure to remove the <>**

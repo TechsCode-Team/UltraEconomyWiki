@@ -24,3 +24,7 @@ Here is a list of all the permissions that can be used.
   Allows the player to use the Bank Feature if enabled
 * `ultraeconomy.bank.others`
   Administator permission to manage other's bank account
+* `ultraeconomy.transferData`
+  Administrator permission to transfer data between File and MySQL Storage
+* `ultraeconomy.ueNotify`
+  Be able to toggle recurring notifications (e.g ItemStorageDeposit, sent and received Payments,...)

@@ -26,6 +26,10 @@ Here is a list of all the commands that can be used.
   Set the given value of a currency of a players balance
 * `/bank [Player]`
   Open the specified bank account
+* `/ueTransfer <File|MySQL> <File|MySQL>`
+  Transfer Data between File and MySQL Storage
+* `/ueNotify <NotificationType>`
+  Toggle recurring notifications (e.g ItemStorageDeposit, sent and received payments, ...)
   <br>
 
 ## Symbols:

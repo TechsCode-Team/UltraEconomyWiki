@@ -28,3 +28,5 @@ Here is a list of all the permissions that can be used.
   Administrator permission to transfer data between File and MySQL Storage
 * `ultraeconomy.ueNotify`
   Be able to toggle recurring notifications (e.g ItemStorageDeposit, sent and received Payments,...)
+* `ultraecomomy.payToggle`
+  Be able to toggle receive any payments (Except Standing Orders)

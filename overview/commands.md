@@ -30,6 +30,8 @@ Here is a list of all the commands that can be used.
   Transfer Data between File and MySQL Storage
 * `/ueNotify <NotificationType>`
   Toggle recurring notifications (e.g ItemStorageDeposit, sent and received payments, ...)
+* `/payToggle`
+  Toggle receiving any payments
   <br>
 
 ## Symbols:

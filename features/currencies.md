@@ -3,7 +3,7 @@
 <br>
 
 ## Start
-For create a currency you will need to open the main plugin's GUI that you open by executing the command `/uecon`.
+For creating a currency you will need to open the main plugin's GUI that you open by executing the command `/uecon`.
 <br>
 
 Then click on the Golden Ingot in the top-right of the GUI. *(Called `Currencies`)*

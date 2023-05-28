@@ -1,118 +1,240 @@
 {
   "overview": {
     "iconType": "fa-solid",
-    "icon":"map",
-    "title":"Overview",
-    "prev": { "url": "", "title": "" },
-    "next": { "url": "", "title": "" },
+    "icon": "map",
+    "title": "Overview",
+    "prev": {
+      "url": "",
+      "title": ""
+    },
+    "next": {
+      "url": "",
+      "title": ""
+    },
     "subItems": {
       "commands": {
-        "title":"Commands",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Commands",
+        "prev": {
+          "url": "",
+          "title": ""
+        },
+        "next": {
+          "url": "https://ultraeconomy.com/wiki/overview/permissions",
+          "title": "Permissions"
+        }
       },
       "permissions": {
-        "title":"Permissions",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Permissions",
+        "prev": {
+          "url": "https://ultraeconomy.com/wiki/overview/commands",
+          "title": "Commands"
+        },
+        "next": {
+          "url": "https://ultraeconomy.com/wiki/overview/placeholders",
+          "title": "Placeholders"
+        }
       },
       "placeholders": {
-        "title":"Placeholders",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Placeholders",
+        "prev": {
+          "url": "https://ultraeconomy.com/wiki/overview/permissions",
+          "title": "Permissions"
+        },
+        "next": {
+          "url": "",
+          "title": ""
+        }
       }
     }
   },
   "installation": {
     "iconType": "fa-solid",
-    "icon":"tasks",
-    "title":"Installation",
-    "prev": { "url": "", "title": "" },
-    "next": { "url": "", "title": "" },
+    "icon": "tasks",
+    "title": "Installation",
+    "prev": {
+      "url": "",
+      "title": ""
+    },
+    "next": {
+      "url": "",
+      "title": ""
+    },
     "subItems": {
       "server": {
-        "title":"Server",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Server",
+        "prev": {
+          "url": "",
+          "title": ""
+        },
+        "next": {
+          "url": "https://ultraeconomy.com/wiki/installation/proxy",
+          "title": "Proxy"
+        }
       },
       "proxy": {
-        "title":"Proxy",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Proxy",
+        "prev": {
+          "url": "https://ultraeconomy.com/wiki/installation/server",
+          "title": "Server"
+        },
+        "next": {
+          "url": "https://ultraeconomy.com/wiki/installation/language",
+          "title": "Language"
+        }
       },
       "language": {
-        "title":"Language",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Language",
+        "prev": {
+          "url": "https://ultraeconomy.com/wiki/installation/proxy",
+          "title": "Proxy"
+        },
+        "next": {
+          "url": "https://ultraeconomy.com/wiki/installation/import",
+          "title": "Import"
+        }
       },
       "import": {
-        "title":"Import",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Import",
+        "prev": {
+          "url": "https://ultraeconomy.com/wiki/installation/language",
+          "title": "Language"
+        },
+        "next": {
+          "url": "https://ultraeconomy.com/wiki/installation/troubleshooting",
+          "title": "Troubleshooting"
+        }
       },
       "troubleshooting": {
-        "title":"Troubleshooting",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Troubleshooting",
+        "prev": {
+          "url": "https://ultraeconomy.com/wiki/installation/import",
+          "title": "Import"
+        },
+        "next": {
+          "url": "",
+          "title": ""
+        }
       }
     }
   },
   "features": {
     "iconType": "fa-solid",
-    "icon":"info",
-    "title":"Features",
-    "prev": { "url": "", "title": "" },
-    "next": { "url": "", "title": "" },
+    "icon": "info",
+    "title": "Features",
+    "prev": {
+      "url": "",
+      "title": ""
+    },
+    "next": {
+      "url": "",
+      "title": ""
+    },
     "subItems": {
       "currencies": {
-        "title":"Currencies",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "https://ultraeconomy.com/wiki/features/bank", "title": "Bank" }
+        "title": "Currencies",
+        "prev": {
+          "url": "",
+          "title": ""
+        },
+        "next": {
+          "url": "https://ultraeconomy.com/wiki/features/bank",
+          "title": "Bank"
+        }
       },
       "bank": {
-        "title":"Bank",
-        "prev": { "url": "https://ultraeconomy.com/wiki/features/currencies", "title": "Currencies" },
-        "next": { "url": "https://ultraeconomy.com/wiki/features/mob_drops", "title": "Mob Drops" }
+        "title": "Bank",
+        "prev": {
+          "url": "https://ultraeconomy.com/wiki/features/currencies",
+          "title": "Currencies"
+        },
+        "next": {
+          "url": "https://ultraeconomy.com/wiki/features/mob_drops",
+          "title": "Mob Drops"
+        }
       },
       "mob_drops": {
-        "title":"Mob Drops",
-        "prev": { "url": "https://ultraeconomy.com/wiki/features/bank", "title": "Bank" },
-        "next": { "url": "https://ultraeconomy.com/wiki/features/money_on_death", "title": "Money on Death" }
+        "title": "Mob Drops",
+        "prev": {
+          "url": "https://ultraeconomy.com/wiki/features/bank",
+          "title": "Bank"
+        },
+        "next": {
+          "url": "https://ultraeconomy.com/wiki/features/money_on_death",
+          "title": "Money on Death"
+        }
       },
       "money_on_death": {
-        "title":"Money on Death",
-        "prev": { "url": "https://ultraeconomy.com/wiki/features/mob_drops", "title": "Mob Drops" },
-        "next": { "url": "https://ultraeconomy.com/wiki/features/trade", "title": "Trade" }
+        "title": "Money on Death",
+        "prev": {
+          "url": "https://ultraeconomy.com/wiki/features/mob_drops",
+          "title": "Mob Drops"
+        },
+        "next": {
+          "url": "https://ultraeconomy.com/wiki/features/trade",
+          "title": "Trade"
+        }
       },
       "trade": {
-        "title":"Trade",
-        "prev": { "url": "https://ultraeconomy.com/wiki/features/money_on_death", "title": "Money on Death" },
-        "next": { "url": "", "title": "" }
+        "title": "Trade",
+        "prev": {
+          "url": "https://ultraeconomy.com/wiki/features/money_on_death",
+          "title": "Money on Death"
+        },
+        "next": {
+          "url": "",
+          "title": ""
+        }
       }
     }
   },
   "faq": {
     "iconType": "fa-solid",
-    "icon":"question",
-    "title":"FAQ",
-    "prev": { "url": "", "title": "" },
-    "next": { "url": "", "title": "" },
-    "subItems": {
-
-    }
+    "icon": "question",
+    "title": "FAQ",
+    "prev": {
+      "url": "",
+      "title": ""
+    },
+    "next": {
+      "url": "",
+      "title": ""
+    },
+    "subItems": {}
   },
   "api": {
     "iconType": "fa-solid",
-    "icon":"code",
-    "title":"API",
-    "prev": { "url": "", "title": "" },
-    "next": { "url": "", "title": "" },
+    "icon": "code",
+    "title": "API",
+    "prev": {
+      "url": "",
+      "title": ""
+    },
+    "next": {
+      "url": "",
+      "title": ""
+    },
     "subItems": {
       "maven": {
-        "title":"Maven"
+        "title": "Maven",
+        "prev": {
+          "url": "",
+          "title": ""
+        },
+        "next": {
+          "url": "https://ultraeconomy.com/wiki/api/gradle",
+          "title": "Gradle"
+        }
       },
       "gradle": {
-        "title":"Gradle"
+        "title": "Gradle",
+        "prev": {
+          "url": "https://ultraeconomy.com/wiki/api/maven",
+          "title": "Maven"
+        },
+        "next": {
+          "url": "",
+          "title": ""
+        }
       }
     }
   }

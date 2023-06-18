@@ -9,12 +9,19 @@ Here are all the frequently asked questions from Ultra Economy.
 <br>
 
 * **`How can I make suggestions?`**
-  You can make suggestions at our [Discord Server](https://discord.gg/3JuHDm8s)
+  - You can make suggestions at our [Discord Server](https://discord.gg/3JuHDm8s)
 * **`Does Ultra Economy work in offline-mode?`**
-  No, Ultra Economy does not work in offline-mode because we store the user data via UUID
+  - No, Ultra Economy does not work in offline-mode because we store the user data via UUID
 * **`Does the plugin support Velocity?`**
-  At the moment it does not support Velocity, but in the future it will
+  - At the moment it does not support Velocity, but in the future it will
 * **`What is the maximum amount of currencies I can make?`**
-  You can for now only add a maximum of 10 currency's
+  - You can for now only add a maximum of 10 currency's
 * **`Can I migrate balance from Essentials?`**
-  Yes, you can migrate balance from Essentials.
+  - Yes, you can migrate balance from Essentials.
+* **`The /pay command is tab completed wrong, how do I fix it?`**
+  - This is a common problem when combining **UltraEconomy** and **CMI**.
+  - Open your **CMI plugin folder**, then the **Settings folder** in which
+    open the **Alias.yml file**.
+  - Find the command **/pay** and change the status of the following elements:
+    `Enabled:` **false**
+    `Tab:` **false**   

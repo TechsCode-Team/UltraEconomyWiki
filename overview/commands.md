@@ -24,7 +24,15 @@ Here is a list of all the commands that can be used.
   Remove the given value of a currency of a players balance
 * `/setbalance <Player> <Currency> <Value>`
   Set the given value of a currency of a players balance
-* `/bank [Player]`
+* `/bank`
+  Open the bank main GUI
+* `/bank balance [Bank Name] deposit <Currency> <Value>`
+  Deposit balance from your personal hand balance to a specified bank
+* `/bank balance [Bank Name] withdraw <Currency> <Value>`
+  Withdraw balance from the bank to your personal hand balance
+* `/bank balance pay <Account> <Currency> <Value>`
+  Make payments to an account using the bank balance
+* `/bank open <Player>`
   Open the specified bank account
 * `/ueTransfer <File|MySQL> <File|MySQL>`
   Transfer Data between File and MySQL Storage

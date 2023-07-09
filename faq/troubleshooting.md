@@ -13,3 +13,18 @@
 <br>
 
 **`NOTE:` This key can continue on a second line, so make sure to copy it all!**
+<br>
+
+**`The /pay command is tab completed wrong, how do I fix it?`**
+*  This is a common problem when combining **UltraEconomy** and **CMI**.
+   Open your **CMI plugin folder**, then the **Settings folder** in which
+    open the **Alias.yml file**.
+   Find the command **/pay** and change the status of the following elements:
+    `Enabled:` **false**
+    `Tab:` **false**   
+<br>
+
+**`I am experiencing issues with syncing currency with my other servers on the proxy.`**
+*  Increase your ingame max connections value.
+*  Follow this path to know how to increase the value:
+   `Phpmyadmin >> settings >> variables >> max connections`

@@ -18,10 +18,3 @@ Here are all the frequently asked questions from Ultra Economy.
    You can for now only add a maximum of 10 currency's
 * **`Can I migrate balance from Essentials?`**
    Yes, you can migrate balance from Essentials.
-* **`The /pay command is tab completed wrong, how do I fix it?`**
-   This is a common problem when combining **UltraEconomy** and **CMI**.
-   Open your **CMI plugin folder**, then the **Settings folder** in which
-    open the **Alias.yml file**.
-   Find the command **/pay** and change the status of the following elements:
-    `Enabled:` **false**
-    `Tab:` **false**   

@@ -18,5 +18,5 @@
 ```
 
 Our Repository Manager houses all publicly available API versions, each of which
-is linked to its corresponding, officially named release build of UltraEconomy.<br>
+is linked to its corresponding, officially named release build of UltraEconomy.
 View all public available [versions](https://repo.techscode.com/#browse/browse:maven-releases:me%2FTechsCode%2FUltraEconomyAPI)

@@ -10,6 +10,10 @@ repositories {
         }
 }
 dependencies {
-    compileOnly 'me.TechsCode:UltraEconomyAPI:1.0.0'
+    compileOnly 'me.TechsCode:UltraEconomyAPI:[CLICK_TO_VIEW_VERSIONS](https://repo.techscode.com/#browse/browse:maven-releases:me%2FTechsCode%2FUltraEconomyAPI)'
 }
 ```
+
+Our Repository Manager houses all publicly available API versions, each of which
+is linked to its corresponding, officially named release build of UltraEconomy.
+

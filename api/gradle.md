@@ -29,7 +29,4 @@ When using methods of our API in the startup of your plugin you will need to add
 - [Instance](./instance) - Getting the API instance
 
 <br>
- 
-[**Next part; Getting the API instance**](./instance)
-
 

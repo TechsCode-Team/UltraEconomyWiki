@@ -10,7 +10,7 @@ repositories {
         }
 }
 dependencies {
-    compileOnly 'me.TechsCode:UltraEconomyAPI:AnyPublicAvailableVersion'
+    compileOnly 'me.TechsCode:UltraEconomyAPI:AnyPublicAvailableAPIVersion'
 }
 ```
 

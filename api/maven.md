@@ -13,7 +13,7 @@
 <dependency>
     <groupId>me.TechsCode</groupId>
     <artifactId>UltraEconomyAPI</artifactId>
-    <version>AnyPublicAvailableVersion</version>
+    <version>AnyPublicAvailableAPIVersion</version>
 </dependency>
 ```
 

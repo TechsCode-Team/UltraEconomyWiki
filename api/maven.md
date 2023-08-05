@@ -13,13 +13,13 @@
 <dependency>
     <groupId>me.TechsCode</groupId>
     <artifactId>UltraEconomyAPI</artifactId>
-    <version>AnyPublicAvailableAPIVersion</version>
+    <version>2.6.4@jar</version>
 </dependency>
 ```
 
 Our `Repository Manager` houses all publicly available API versions, each of which
 is linked to its corresponding, officially named release build of UltraEconomy.
-**View all public available** [**versions**](https://repo.techscode.com/#browse/browse:maven-releases:me%2FTechsCode%2FUltraEconomyAPI)
+**View all public available** [**versions**](https://repo.techscode.com/#browse/browse:maven-releases:me%2FTechsCode%2FUltraEconomyApi)
 
 <br>
 

@@ -210,30 +210,41 @@
       "title": ""
     },
     "next": {
-      "url": "",
-      "title": ""
+      "url": "https://ultraeconomy.com/wiki/api/instance",
+      "title": "Instance"
     },
     "subItems": {
+      "instance": {
+        "title": "Instance",
+        "prev": {
+          "url": "https://ultraeconomy.com/wiki/api/",
+          "title": "Overview"
+        },
+        "next": {
+          "url": "",
+          "title": ""
+        }
+      },
       "maven": {
         "title": "Maven",
         "prev": {
-          "url": "",
-          "title": ""
+          "url": "https://ultraeconomy.com/wiki/api/",
+          "title": "Overview"
         },
         "next": {
-          "url": "https://ultraeconomy.com/wiki/api/gradle",
-          "title": "Gradle"
+          "url": "https://ultraeconomy.com/wiki/api/instance",
+          "title": "Instance"
         }
       },
       "gradle": {
         "title": "Gradle",
         "prev": {
-          "url": "https://ultraeconomy.com/wiki/api/maven",
-          "title": "Maven"
+          "url": "https://ultraeconomy.com/wiki/api/",
+          "title": "Overview"
         },
         "next": {
-          "url": "",
-          "title": ""
+          "url": "https://ultraeconomy.com/wiki/api/instance",
+          "title": "Instance"
         }
       }
     }

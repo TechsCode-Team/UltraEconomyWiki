@@ -21,5 +21,3 @@ is linked to its corresponding, officially named release build of UltraEconomy.
 ## Table of contents
 - [Instance](./instance) - Getting the API instance
 <br>
-
-[**Next part; Getting the API instance**](./instance)

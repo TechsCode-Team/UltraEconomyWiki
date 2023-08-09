@@ -10,7 +10,7 @@ repositories {
         }
 }
 dependencies {
-    compileOnly 'me.TechsCode:UltraEconomyAPI:2.6.4@jar'
+implementation 'me.TechsCode:UltraEconomyAPI:2.6.4'
 }
 ```
 

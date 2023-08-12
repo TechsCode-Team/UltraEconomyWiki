@@ -14,6 +14,7 @@
     <groupId>me.TechsCode</groupId>
     <artifactId>UltraEconomyAPI</artifactId>
     <version>2.6.4</version>
+    <scope>provided</scope>
 </dependency>
 ```
 

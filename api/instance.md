@@ -1,19 +1,7 @@
-# Overview
-Now that we have import the API we can get the instance. With this instance you are able to use the API.
+# using the API instance
 
-<br>
+With the API instance you are able to access the storage, actions and events of Ultra Economy.
 
-## Obtaining the instance
-To retieve the instance you will need to add the following method to your class.
+## API methods
 
-*We recommend adding this to your main class (or your API class) to generalise this instance*
-
-<br>
-
-```java
-UltraEconomyAPI api = UltraEconomy.getAPI();
-```
-
-<br>
-
-<br>
+- 

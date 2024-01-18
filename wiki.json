@@ -221,30 +221,8 @@
           "title": "Overview"
         },
         "next": {
-          "url": "",
-          "title": ""
-        }
-      },
-      "maven": {
-        "title": "Maven",
-        "prev": {
-          "url": "https://ultraeconomy.com/wiki/api/",
-          "title": "Overview"
-        },
-        "next": {
-          "url": "https://ultraeconomy.com/wiki/api/instance",
-          "title": "Instance"
-        }
-      },
-      "gradle": {
-        "title": "Gradle",
-        "prev": {
-          "url": "https://ultraeconomy.com/wiki/api/",
-          "title": "Overview"
-        },
-        "next": {
-          "url": "https://ultraeconomy.com/wiki/api/instance",
-          "title": "Instance"
+          "url": "https://ultraeconomy.com/wiki/api/accounts",
+          "title": "Accounts"
         }
       }
     }

@@ -31,28 +31,7 @@ To use the Ultra Economy API, add the following repository and dependency inform
 
 Make sure to replace `VERSION` with the desired version. You can browse available versions **[here](https://repo.techscode.com/#browse/browse:techscode-apis:me%2FTechsCode%2FUltraEconomyAPI)**.
 
-<div id="version-container">
-  <button class="version-button" style="background-color: #007bff; color: white; border: none; padding: 5px 10px; border-radius: 3px; font-size: 14px; cursor: pointer;">
-    Fetching...
-  </button>
-</div>
-
-<script>
-  async function fetchLatestVersion() {
-    try {
-      const response = await fetch('https://repo.techscode.com/service/rest/v1/search?repository=techscode-apis&group=me.TechsCode&name=UltraEconomyAPI');
-      const data = await response.json();
-      const items = data.items;
-      const latestVersion = items[0].version; // Assuming the first item is the latest
-      document.querySelector('.version-button').textContent = latestVersion;
-    } catch (error) {
-      document.querySelector('.version-button').textContent = 'Error fetching version';
-      console.error('Error fetching version:', error);
-    }
-  }
-
-  fetchLatestVersion();
-</script>
+![Sonatype Nexus (Repository)](https://img.shields.io/nexus/techscode-apis/me.TechsCode/UltraEconomyAPI?server=https%3A%2F%2Frepo.techscode.com%2F)
 
 ## Getting the API Instance
 

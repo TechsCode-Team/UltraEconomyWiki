@@ -31,7 +31,7 @@ To use the Ultra Economy API, add the following repository and dependency inform
 
 Make sure to replace `VERSION` with the desired version. You can browse available versions **[here](https://repo.techscode.com/#browse/browse:techscode-apis:me%2FTechsCode%2FUltraEconomyAPI)**.
 
-![Sonatype Nexus (Repository)](https://img.shields.io/nexus/techscode-apis/me.TechsCode/UltraEconomyAPI?server=https%3A%2F%2Frepo.techscode.com%2F)
+![Sonatype Nexus (Repository)](https://img.shields.io/nexus/techscode-apis/me.TechsCode/UltraEconomyAPI?server=https%3A%2F%2Frepo.techscode.com%2F&logoSize=x20&label=Version)
 
 ## Getting the API Instance
 
